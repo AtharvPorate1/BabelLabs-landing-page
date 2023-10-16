@@ -40,7 +40,7 @@ const Contact = () => {
                             }
                         />
                         <Link
-                            href="mailto:info@seekvisualartist.com?subject=Lets%20work%20together!&amp;body=Hello%2C%20I%20think%20we%20need%20you%20to%20work%20on%2Fcollaborate%20this%20particular%20product...%20Reach%20out%20as%20soon%20as%20you%20can."
+                            href="mailto:babelabsai@gmail.com"
                             target="_blank"
                             aria-label="Send me an email"
                             className="mt-1 w-[147px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[170px] lg:mt-4"
@@ -51,12 +51,12 @@ const Contact = () => {
 
                     <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
                         <Link
-                            href="https://github.com/nuIIpointerexception"
+                            href="https://www.linkedin.com/company/babellabsai/"
                             target="_blank"
-                            aria-label="View GitHub Profile"
+                            aria-label="View Linkedin Profile"
                         >
                             <AnimatedTitle
-                                text={"GITHUB"}
+                                text={"LINKEDIN"}
                                 className={
                                     "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                                 }
@@ -65,7 +65,7 @@ const Contact = () => {
                             />
                         </Link>
                         <Link
-                            href="https://www.youtube.com/c/seekvisualartist/"
+                            href="https://www.youtube.com/channel/UCnxwaD4Ha3j6OuPwwdIhzsw"
                             target="_blank"
                             aria-label="View Youtube Channel"
                         >
@@ -79,12 +79,12 @@ const Contact = () => {
                             />
                         </Link>
                         <Link
-                            href="https://discord.com/invite/hDhUTsRA"
+                            href="https://twitter.com/babellabsai"
                             target="_blank"
                             aria-label="View Discord Profile"
                         >
                             <AnimatedTitle
-                                text={"DISCORD"}
+                                text={"TWITTER"}
                                 className={
                                     "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                                 }

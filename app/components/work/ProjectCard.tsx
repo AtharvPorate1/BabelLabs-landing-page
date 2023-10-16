@@ -64,7 +64,7 @@ const ProjectCard = ({
                                 data-blobity-offset-x="4"
                                 data-blobity-offset-y="4"
                                 data-blobity-magnetic="false">
-                                <SiGithub/>
+                                {/* <SiGithub/> */}
                             </Link>
                             <Link
                                 href={demo}
@@ -76,7 +76,7 @@ const ProjectCard = ({
                                 data-blobity-offset-x="4"
                                 data-blobity-offset-y="4"
                                 data-blobity-magnetic="false">
-                                <BsLink45Deg/>
+                                {/* <BsLink45Deg/> */}
                             </Link>
                         </>
                     ) : (

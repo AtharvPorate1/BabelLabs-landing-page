@@ -24,13 +24,13 @@ const Button = () => {
                     angle={0}
                 >
                     <Link
-                        href="#home"
+                        href=""
                         data-blobity-magnetic="false"
-                        onClick={handleScroll}
+                        // onClick={handleScroll}
                         aria-label="Scroll to Home Section"
                     >
                         <h4 className="py-2 px-2 text-[12px] sm:px-4 sm:text-[14px] md:py-1 md:px-4 flex items-center justify-center"> {/* Added styles for centering */}
-                            TO DEMO
+                        <button data-tf-popup="YZzYlTJ2" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=BabelLabs Waitlist Form" data-tf-transitive-search-params data-tf-medium="snippet">Get Early Access!</button><script src="//embed.typeform.com/next/embed.js"></script>
                         </h4>
                     </Link>
                 </Container>

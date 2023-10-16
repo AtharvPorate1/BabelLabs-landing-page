@@ -71,10 +71,11 @@ export default function Home() {
                 <Hero />
                 <About />
                 <Work />
-                <Tools />
+                {/* <Tools /> : Don't Need it */}
                 { /* <Blog /> TODO: Low Priority */ }
                 <Contact />
                 <Footer />
+                <div data-tf-popover="YZzYlTJ2" data-tf-opacity="100" data-tf-iframe-props="title=BabelLabs Waitlist Form" data-tf-transitive-search-params data-tf-button-color="#0445AF" data-tf-medium="snippet"></div><script src="//embed.typeform.com/next/embed.js"></script>
             </main>
             {/*</ScrollerMotion>*/}
         </>

@@ -10,17 +10,15 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://www.seekvisualartist.com/"),
-    title: "Seek Visual Artist",
+    metadataBase: new URL("https://www.babellabs.xyz/"),
+    title: "BabelLabs",
     description:
-    "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+    "Bringing creators on chain",
     generator: "Next.js",
-    applicationName: "Seek Visual Artist",
+    applicationName: "BabelLabs",
     keywords: [
-        "Seek Visual Artist",
-        "SeekVA",
-        "Seek Design",
-        "Seek Visuals",
+        "BabelLabs",
+        "BabelFish",
         "freelance",
         "developer",
         "freelance developer",
@@ -46,17 +44,17 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "BabelLabs",
         description:
       "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
-        url: "https://www.seekvisualartist.com/",
-        siteName: "www.seekvisualartist.com",
+        url: "https://www.babellabs.xyz/",
+        siteName: "www.babellabs.xyz",
         images: [
             {
                 url: "./public/metadata.jpg",
                 width: 1200,
                 height: 630,
-                alt: "Seek Visual Artist - Designer and Developer",
+                alt: "BabelLabs",
             },
         ],
         locale: "en-US",
@@ -64,7 +62,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "BabelLabs",
         description:
       "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
         creator: "SeekVFX",
